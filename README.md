@@ -4,7 +4,7 @@
 
 `Paper-APS` is an **Advanced Planning and Scheduling (APS)** system specifically designed for paper mills to address the **Cutting Stock Problem (CSP)**. This system optimizes the arrangement of different order widths onto parent rolls. Successful implementation of this system has reduced production costs by **8%** and inventory levels by **67%**, promoting **digital transformation** and **smart manufacturing** in the paper industry.
 
-## Background and Challenges
+## Background
 
 - **Production Planning**:
   Based on order requirements, different widths are pre-arranged onto fixed-width parent rolls, such as **129 inches**.
@@ -87,7 +87,7 @@ Please contact the developer if you have any questions or require these features
 
 This project is licensed under the **MIT License**. For more details, see the [LICENSE](LICENSE) file.
 
-## Contact Information
+## Contact
 
 - **Author**: HungCheng Chen
 - **Email**: [hcchen.nick@gmail.com](mailto:hcchen.nick@gmail.com)
