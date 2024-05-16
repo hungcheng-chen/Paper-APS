@@ -1,0 +1,7 @@
+pytest
+pytest-cov
+black
+bump2version
+pandas
+openpyxl
+ortools==9.9.3963
