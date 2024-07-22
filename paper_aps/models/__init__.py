@@ -1,1 +1,1 @@
-from .stock_optim import StockOptim
+from .stock_optim import CSP_Optim

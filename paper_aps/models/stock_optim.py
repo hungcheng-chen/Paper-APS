@@ -2,7 +2,7 @@ import pandas as pd
 from ortools.sat.python import cp_model
 
 
-class StockOptim:
+class CSP_Optim:
     def __init__(self, opt, orders_df):
         # Initialize optimization parameters
         self.cpu = opt.cpu

@@ -1,7 +1,7 @@
 import argparse
 
 import pandas as pd
-from models import StockOptim
+from models import CSP_Optim
 from opts import Opts
 
 
@@ -11,7 +11,7 @@ def main(opt: argparse.Namespace):
     result = []
 
     # Initialize the StockOptim object with the provided options and orders
-    stock_opt = StockOptim(opt, orders_df)
+    stock_opt = CSP_Optim(opt, orders_df)
 
     # Solve the optimization problem
     status_name = stock_opt.solve()
