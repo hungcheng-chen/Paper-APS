@@ -24,7 +24,7 @@ To get started with `Paper-APS`, follow these steps:
 
 1. **Clone the Repository**:
     ```sh
-    git clone [Project URL]
+    git clone https://github.com/hungcheng-chen/Paper-APS.git
     cd paper_aps
     ```
 
